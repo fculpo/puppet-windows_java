@@ -4,6 +4,7 @@ class windows_java::params {
   $root_url = 'http://download.oracle.com/otn-pub/java/jdk'
 
   $build_numbers_hash = {
+    '8u181'=> 'b13',
     '8u45' => 'b15',
     '8u40' => 'b26',
     '8u31' => 'b13',

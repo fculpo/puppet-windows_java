@@ -30,7 +30,7 @@
 #
 class windows_java (
   $ensure = 'present',
-  $version = '8u45',
+  $version = '8u181',
   $arch = $::architecture,
   $default = true,
 ) {
